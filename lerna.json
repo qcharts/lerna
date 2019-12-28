@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "cd ./core && npm start "
+    "start": "lerna bootstrap"
   },
   "version": "0.0.0"
 }
